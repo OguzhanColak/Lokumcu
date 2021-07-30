@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.ui.form .field>label {
+  text-align: left;
+}
+
+.App{
+background-color: rgba(112, 121, 116, 0.246);
+}
+
+.field{
+  text-align: left;
+}
+
+.ui.grid>.column:not(.row){
+  margin-top: 0.25em;
+}
+
+html{
+  background-color: rgba(112, 121, 116, 0.246);
+}
